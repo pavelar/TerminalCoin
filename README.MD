@@ -7,7 +7,7 @@ its proof of work (POW). Taking development cues from Tenebrix and Litecoin,
 Terminal currently employs a simplified variant of scrypt.
 
 ## License – MIT license ⚖️
-Dogecoin Core is released under the terms of the MIT license. See
+Terminal Core is released under the terms of the MIT license. See
 [COPYING](COPYING) for more information or see
 [opensource.org](https://opensource.org/licenses/MIT)
 
